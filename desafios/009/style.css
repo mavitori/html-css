@@ -1,0 +1,21 @@
+@charset "UTF-8"
+
+body {
+
+}
+
+header {
+background-color: black;
+margin: auto;
+height: 100px;
+padding: 10px;
+}
+
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+header > p {
+
+}
