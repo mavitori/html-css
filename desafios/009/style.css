@@ -11,7 +11,7 @@ header {
 background-color: black;
 margin: auto;
 height: 130px;
-padding: 10px;
+padding-top: 50px;
 }
 
 h1 {
@@ -25,6 +25,7 @@ header > p {
     color: antiquewhite;
     text-align: white;
     text-align: center;
+    padding-bottom: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
